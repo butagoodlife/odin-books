@@ -1,0 +1,30 @@
+body {
+  background-color: aquamarine;
+  font-size: 25px;
+}
+
+ a {
+  font-family: monospace;
+}
+
+div {
+  background-color: cornsilk;
+  width:fit-content;
+}
+
+span {
+  color: rgb(255, 0, 0);
+}
+
+.books {
+  width: fit-content;
+  background-color: blueviolet;
+  font-size: 33px;
+}
+
+.more {
+  width: fit-content;
+  background-color:red;
+  font-size: 50px;
+  font-family: monospace;
+}
